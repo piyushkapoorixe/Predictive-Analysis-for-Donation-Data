@@ -1,0 +1,12 @@
+STEPS
+Create a folder and open in vscode.
+npm init
+install express using npm 
+create server.js and start the server using npm start 
+installed mongoose using npm install mongoose --save
+created config that has db.js file contained in it 
+connect to mongodb in server.js
+created a model in subjectviews.js
+created routes.js
+created index.html
+

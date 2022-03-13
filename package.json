@@ -1,0 +1,16 @@
+{
+  "name": "predictive-analysis_adt",
+  "version": "1.0.0",
+  "description": "Predictive Analysis for Donation Data. SEM 2 ADt Project. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Piyush Preetika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6"
+  }
+}
