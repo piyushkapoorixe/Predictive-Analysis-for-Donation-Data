@@ -1,0 +1,11 @@
+Create a folder and open in VS Code
+Do npm init
+install express using npm install express --save
+create server.js and start the server using npm start. (in package.json add start script)
+install mongoose using npm install mongoose --save
+Create config/db.js
+connect to mongodb in server.js
+in SubjectViews.js, created a model
+then create routes.js
+now create index.html
+add routes and db in server.js
