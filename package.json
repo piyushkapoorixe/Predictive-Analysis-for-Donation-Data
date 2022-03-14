@@ -1,7 +1,7 @@
 {
   "name": "predictive-analysis_adt",
   "version": "1.0.0",
-  "description": "Predictive Analysis for Donation Data. SEM 2 ADt Project. ",
+  "description": "ADT project predictive analysis for donation data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
