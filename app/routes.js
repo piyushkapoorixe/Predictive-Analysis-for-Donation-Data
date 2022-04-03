@@ -20,8 +20,8 @@ module.exports = function(app) {
 
 
     app.get('*', function(req, res) {
-        res.sendFile('./public/index.html');
-    });
-
+        res.sendFile('/Users/piyushkapoor/Desktop/Predictive Analysis_ADT/public/index.html'); // /Users/piyushkapoor/Desktop/Predictive Analysis_ADT/public/index.html // res.sendFile('./public/index.html')
+    });//public/index.html
+    
 
 }
