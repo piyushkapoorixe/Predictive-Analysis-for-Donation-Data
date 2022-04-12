@@ -2,7 +2,7 @@
   "name": "predictive-analysis_adt",
   "version": "1.0.0",
   "description": "ADT project predictive analysis for donation data",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
